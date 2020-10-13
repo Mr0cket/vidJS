@@ -1,5 +1,5 @@
 #node stuff
 npm_modules
 
-#test assets
-Assets/TheBoys.mkv
+#test videos
+*.mkv
